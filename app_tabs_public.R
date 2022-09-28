@@ -226,7 +226,7 @@ ui <- fluidPage(
              br(),
              h4("Use"),
              p("Everyone can use the app for free to create his or her own canvas of messages. Want to use a different set of abstracts relating to your own topic of interest? Or would you like to modify this app so it fits your preferences? Find the code for this app at",
-               a("my Github", href="https://github.com/Kita2015?tab=repositories", target = "_blank"))
+               a("my Github", href="https://github.com/Kita2015/Messages_World_Science_app", target = "_blank"))
              
              )
     
