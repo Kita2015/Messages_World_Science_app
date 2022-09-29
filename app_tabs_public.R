@@ -228,9 +228,9 @@ ui <- fluidPage(
              p("Everyone can use the app for free to create his or her own canvas of messages. Want to use a different set of abstracts relating to your own topic of interest? Or would you like to modify this app so it fits your preferences? Find the code for this app at",
                a("my Github", href="https://github.com/Kita2015/Messages_World_Science_app", target = "_blank"))
              
-             )
+             ),
     
-  ),
+
   
   hr(),
   
@@ -238,7 +238,7 @@ ui <- fluidPage(
   ## If you don't want the picture, put # in front of the line of code
   HTML('<center><img src="..."></center>'),
 
-  p("Cite this app: Blokhuis, Christa. Messages from the world of science. Version 0.8, 2022-09-20. URL.")
+  p("Cite this app: Blokhuis, Christa. Messages from the world of science. Version 0.8, 2022-09-20. https://github.com/Kita2015/Messages_World_Science_app")
 )
   
 
